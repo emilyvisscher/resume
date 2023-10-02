@@ -1,0 +1,56 @@
+body {
+	font-family: avenir, sans-serif;
+	margin: 15px;
+}
+
+a:link{
+	color: rgba(247, 146, 94, 1);
+}
+
+a:visited{
+	color: #A34A21;
+}
+a:hover{
+	color: #B89FBC;
+}
+h1{
+	color: #7C492F;
+	font-family: georgia, serif;
+}
+
+h2{
+	font-family: georgia, serif;
+	color: #A34A21;
+}
+ul {
+	list-style-type: circle;
+}
+
+.contact{
+	background: rgba(243, 199, 196, .8);
+	padding: 25px;
+} 
+
+.references{
+	background: rgba(243, 199, 196, .8);
+	padding: 10px;
+
+}
+.references h2{
+	color: #A34A21;
+}
+.content{
+	background: rgba(243, 199, 196, .4);
+	padding: 10px;
+	padding-top: 20px;
+}
+
+#navbar{
+	background: rgba(243, 199, 196, .4);
+}
+
+footer{
+	background: rgba(149, 146, 145, .15);
+	font-size: .7em;
+
+}
